@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugulay" alt="ugulay" /> </p>
 
-- 🌱 I’m currently learning **Symfony, ElasticSearch, CI/CD**
+- 🌱 I’m currently learning **GO, Python, Symfony, ElasticSearch, CI/CD Operations**
 
 - 📫 How to reach me **ugurgulay@gmail.com**
 
