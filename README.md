@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Uğur Gülay</h1>
-<h3 align="center">Lead JS & PHP Developer from Turkey</h3>
+<h3 align="center">Developer Team Lead / JS & PHP Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugulay" alt="ugulay" /> </p>
-
-- 🌱 I’m currently learning **GO, Python, Symfony, ElasticSearch, CI/CD Operations**
+- 🌱 I’m currently learning **GO, Python, C#, Devops**
 
 - 📫 How to reach me **ugurgulay@gmail.com**
+
+- 🌐 My personal website <a href="https://ugurgulay.com">ugurgulay.com</a>
 
 
 <p align="center">
