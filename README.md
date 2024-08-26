@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **GO, Python, C#, Devops**
 
-- 📫 How to reach me **ugurgulay@gmail.com**
-
 - 🌐 My personal website <a href="https://ugurgulay.com">ugurgulay.com</a>
 
 
