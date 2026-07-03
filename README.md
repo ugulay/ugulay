@@ -65,16 +65,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugulay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugulay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ugulay&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugulay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugulay&theme=tokyonight&hide_border=true" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ugulay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=ugulay&theme=tokyonight&hide_border=true" alt="github streak" />
 </p>
 
 ---
