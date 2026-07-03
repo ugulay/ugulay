@@ -65,13 +65,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ugulay&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugulay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://streak-stats.demolab.com/?user=ugulay&theme=tokyonight&hide_border=true" alt="github streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ugulay&theme=tokyonight&hide_border=true" alt="github streak" />
-</p>
+### 🔥 Most Used Languages
+
+<p align="center"><sub>Across my public repositories · a self-contained view that always renders</sub></p>
+
+```text
+JavaScript   ███████████░░░░░░░░░░░░░░   43.8 %
+TypeScript   ██████░░░░░░░░░░░░░░░░░░░   25.0 %
+PHP          ███░░░░░░░░░░░░░░░░░░░░░░   12.5 %
+HTML         ███░░░░░░░░░░░░░░░░░░░░░░   12.5 %
+Python       ██░░░░░░░░░░░░░░░░░░░░░░░    6.3 %
+```
 
 ---
 
